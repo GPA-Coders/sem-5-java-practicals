@@ -30,3 +30,6 @@ public class App {
 		}
 	}
 }
+
+// Student[Id = 1, Name = Jack, Branch = Computer]
+// Student[Id = 2, Name = David, Branch = Robotics]
