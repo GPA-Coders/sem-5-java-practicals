@@ -42,3 +42,8 @@ public class App {
 		}
 	}
 }
+
+// Average salary : 20000.0
+// Minimum salary : 10000
+// Maximum salary : 30000
+// Total salary : 60000
